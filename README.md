@@ -24,8 +24,6 @@ I'm Thomas, Fullstack developer from  Nairobi, Kenya.
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-# Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codef101&theme=blue-green"></img>
 
 # Where to find me
 <a href="https://twitter.com">
@@ -47,3 +45,5 @@ I'm Thomas, Fullstack developer from  Nairobi, Kenya.
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
 </a>
 
+# Github Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codef101&theme=blue-green"></img>
